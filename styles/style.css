@@ -322,6 +322,8 @@
     line-height: 30px;
     font-size: 18px;
     font-weight: normal;
+    text-decoration: none;
+    color: white;
 }
 
 .footer__social-icon {
