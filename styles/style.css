@@ -53,6 +53,7 @@
     text-decoration: none;
     color: #2F80ED;
 }
+
 .header__link:hover {
     text-decoration: none;
     color: red
@@ -229,7 +230,7 @@
     color: black;
 }
 
-.feinman__link:hover{
+.feinman__link:hover {
     text-decoration: none;
     color: red
 }
@@ -335,7 +336,7 @@
     font-weight: normal;
 }
 
-footer__column-link:hover{
+footer__column-link:hover {
     text-decoration: none;
     color: red
 }
