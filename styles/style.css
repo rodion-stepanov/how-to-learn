@@ -53,6 +53,10 @@
     text-decoration: none;
     color: #2F80ED;
 }
+.header__link:hover {
+    text-decoration: none;
+    color: red
+}
 
 .header__main-illustration {
     background-image: url(../images/two_again.png);
@@ -225,6 +229,11 @@
     color: black;
 }
 
+.feinman__link:hover{
+    text-decoration: none;
+    color: red
+}
+
 .kaufman {
     background-color: #1F1F1F;
     position: relative;
@@ -324,6 +333,11 @@
     line-height: 30px;
     font-size: 18px;
     font-weight: normal;
+}
+
+footer__column-link:hover{
+    text-decoration: none;
+    color: red
 }
 
 .footer__social-icon {
