@@ -1,0 +1,10 @@
+.header__link {
+    text-decoration: none;
+    color: #2F80ED;
+}
+
+.header__link:hover {
+    text-decoration: none;
+    opacity: 0.4;
+    transition: opacity 1s linear 0.5s;
+}
