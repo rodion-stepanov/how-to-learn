@@ -2,3 +2,9 @@
     width: 270px;
     height: 38px;
 }
+
+.resources__logo:hover {
+    text-decoration: none;
+    opacity: 0.4;
+    transition: opacity 1s linear 0.5s;
+}
