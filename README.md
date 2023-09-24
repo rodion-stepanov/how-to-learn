@@ -1,7 +1,7 @@
 # Научиться учиться
 -------------------------  
 
-<https://rodion257.github.io/how-to-learn/>
+<https://rodion-stepanov.github.io/how-to-learn/>
 
 ## Описание
 Учебный проект с базовыми элементами верстки.
